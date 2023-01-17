@@ -1,0 +1,116 @@
+
+
+body.login{
+    background: -webkit-linear-gradient(bottom, #f2bae8 #0c7bb3);
+    background-repeat: no-repeat;
+}
+
+div.card-by{
+    background: #fbfbfb;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 410px;
+    margin: 6rem auto 9.8rem auto;
+    width: 329px;
+}
+
+h1.login{
+    text-align: center;
+}
+
+form{
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+}
+
+a.registrasi{
+    color:black;
+    text-decoration: none;
+}
+
+div.text-center{
+    margin: 5px;
+}
+
+
+div.card-reg{
+    background: #fbfbfb;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 580px;
+    margin: 2.5rem auto 2.6rem auto;
+    width: 800px;
+}
+
+body.reg{
+    background: -webkit-linear-gradient(bottom, #f2bae8, #0c7bb3);
+    background-repeat: none;
+}
+
+
+form{
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+}
+
+h1.reg{
+    text-align: center;
+}
+
+.regist{
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+    padding: 1.5rem;
+}
+
+.long{
+    width: 200px;
+}
+
+.home-container{
+    padding-top: 1.5rem;
+    background-color: #f5f5f5 !important;
+    height: 650px;
+}
+
+.tombol{
+    margin-left: 20px;
+}
+
+.navigator{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.logo{
+    font-size: 35px !important;
+}
+
+a.nav-link{
+   font-size: 20px !important; 
+}
+
+.ind{
+    background: -webkit-linear-gradient(bottom, #d564c0, #033c70);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+.text-center.p-3.foot{
+    margin: 0px !important;
+    background-color: rgb(204, 204, 204);
+    background-attachment: fixed;
+}
+
+footer{
+    bottom: 0px;
+    width: 100%;
+    height: 50px;
+    /* position: absolute; */
+}
+html,body{
+    margin: 0 auto;
+    height: 100%;
+}
